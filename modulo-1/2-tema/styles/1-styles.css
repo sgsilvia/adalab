@@ -1,0 +1,40 @@
+
+body{
+    background-color: aquamarine;
+    color: crimson;
+}
+
+.block{
+    background-color: chocolate;
+    width: 200px;
+    height: 200px;
+margin: 100px;
+
+
+}
+
+
+
+.inline{
+    background-color:green;
+    color: rgb(9, 0, 9);
+    margin: 10px;
+    
+   
+   /* width: 200px;
+    height: 200xp; no funciona */
+    
+}
+
+.inline-1{
+    background-color:green;
+    color: rgb(9, 0, 9);
+    margin: 30px;
+    display:block
+    
+   
+}
+ 
+.imagen{
+    width: 500px;
+}

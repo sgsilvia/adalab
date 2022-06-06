@@ -1,0 +1,26 @@
+body{
+    background-color:aquamarine
+}
+
+header{
+    background-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title-1,
+.title-2,
+.title-4,
+.title-4{
+font: size 30xp;;
+background-color: coral;
+}
+
+.texto-1{
+    font-size: medium;
+}
+
+img{
+
+    height: 100px;
+   
+}
